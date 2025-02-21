@@ -1,5 +1,13 @@
 #   About Me:
-I am Iroroh Glory Ebube, a Data Analyst and an aspiring Data Engineer from Nigeria.                                                                            <br> 
+I am Iroroh Glory Ebube, a Data Engineer. 
+
+*Here's a quick summary about me*:
+my Pronouns: Her/She
+Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/date) Class of 2025.
+I'm currently learning SQL, Git and Python.
+@ I'm looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+A Job interests: Data engineer, Database Administrator , DataOps Engineering, Cloud Data Engineer  and Data Architect(Intern or Junior level).
+« You can [view my resume] (#) and contact me by emailing ebube.iroroh@gmail.com
 
 
 ## 🌐 Socials:
