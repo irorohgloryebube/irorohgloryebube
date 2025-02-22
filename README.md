@@ -11,7 +11,7 @@
 
 ● 😃I'm looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
-● 💼 A Job interests: Data engineer, Database Administrator , DataOps Engineering, Cloud Data Engineer  and Data Architect(Intern or Junior level).
+● 💼 Job interests: Data engineer, Database Administrator , DataOps Engineering, Cloud Data Engineer  and Data Architect(Intern or Junior level).
 
 ● 📧 You can [view my resume] (#) and contact me by emailing ebube.iroroh@gmail.com
 
