@@ -7,7 +7,7 @@
 
 ● 💡Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/data) Class of 2024.
 
-● 🌱I'm currently learning SQL, Git and Python.
+● 🌱Skilled in Excel, Power BI, SQL, Git and Python.
 
 ● 😃I'm looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
